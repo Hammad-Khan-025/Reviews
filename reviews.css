@@ -1,0 +1,17 @@
+.container-fluid{
+    height: 100vh;
+    padding: 0 !important;
+}
+.card{
+    width: 60%;
+    margin-top: 3vw;
+}
+.profile{
+    width: 20%;
+}
+.text-muted{
+    text-align: center;
+}
+.random{
+    box-shadow: none !important;
+}
